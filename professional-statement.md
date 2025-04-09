@@ -1,0 +1,3 @@
+# Professional Statement
+
+I am a dedicated and analytical Network Cybersecurity professional with a strong foundation in network defense, threat detection, and incident response. I am passionate about safeguarding digital infrastructure and committed to protecting organizations and the people they serve by ensuring secure, resilient, and compliant network environments. With a focus on continuous learning and ethical responsibility, I aim to contribute my skills in network monitoring, vulnerability assessment, and secure system design to support the evolving security goals of modern organizations.
